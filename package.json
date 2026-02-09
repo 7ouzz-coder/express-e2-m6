@@ -1,0 +1,29 @@
+{
+  "name": "express-e2-m6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7ouzz-coder/express-e2-m6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/7ouzz-coder/express-e2-m6/issues"
+  },
+  "homepage": "https://github.com/7ouzz-coder/express-e2-m6#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
